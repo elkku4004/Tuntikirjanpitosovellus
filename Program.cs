@@ -41,7 +41,7 @@ namespace Tuntikirjanpitosovellus
                 Console.WriteLine("Syötä tunnit:");
                 double hours = double.Parse(Console.ReadLine());
 
-                Console.WriteLine("Syötä päivämäärä (muodossa vv-kk-pp):");
+                Console.WriteLine("Syötä päivämäärä (muodossa pp-kk-vv):");
                 DateTime date = DateTime.Parse(Console.ReadLine());
 
                 SaveTimeEntry(username, project, description, hours, date);
@@ -59,6 +59,11 @@ namespace Tuntikirjanpitosovellus
             // Muuten palauta false
 
             return true; // Tämä on väliaikainen palautusarvo, jotta esimerkkisovellus toimii
+
+            {
+                else if
+                    return false;
+            }
         }
 
         private static void SaveTimeEntry(string username, string project, string description, double hours, DateTime date)

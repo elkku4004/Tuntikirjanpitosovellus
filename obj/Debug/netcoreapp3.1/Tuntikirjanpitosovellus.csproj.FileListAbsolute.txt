@@ -12,3 +12,10 @@ C:\Users\elmer\source\repos\Tuntikirjanpitosovellus\obj\Debug\netcoreapp3.1\Tunt
 C:\Users\elmer\source\repos\Tuntikirjanpitosovellus\obj\Debug\netcoreapp3.1\Tuntikirjanpitosovellus.dll
 C:\Users\elmer\source\repos\Tuntikirjanpitosovellus\obj\Debug\netcoreapp3.1\Tuntikirjanpitosovellus.pdb
 C:\Users\elmer\source\repos\Tuntikirjanpitosovellus\obj\Debug\netcoreapp3.1\Tuntikirjanpitosovellus.genruntimeconfig.cache
+C:\Users\elmeri.eklund\OneDrive - Careeria\Tiedostot\GitHub\Tuntikirjanpitosovellus\obj\Debug\netcoreapp3.1\Tuntikirjanpitosovellus.csproj.AssemblyReference.cache
+C:\Users\elmeri.eklund\OneDrive - Careeria\Tiedostot\GitHub\Tuntikirjanpitosovellus\obj\Debug\netcoreapp3.1\Tuntikirjanpitosovellus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmeri.eklund\OneDrive - Careeria\Tiedostot\GitHub\Tuntikirjanpitosovellus\obj\Debug\netcoreapp3.1\Tuntikirjanpitosovellus.AssemblyInfoInputs.cache
+C:\Users\elmeri.eklund\OneDrive - Careeria\Tiedostot\GitHub\Tuntikirjanpitosovellus\obj\Debug\netcoreapp3.1\Tuntikirjanpitosovellus.AssemblyInfo.cs
+C:\Users\elmeri.eklund\OneDrive - Careeria\Tiedostot\GitHub\Tuntikirjanpitosovellus\obj\Debug\netcoreapp3.1\Tuntikirjanpitosovellus.csproj.CoreCompileInputs.cache
+C:\Users\elmeri.eklund\OneDrive - Careeria\Tiedostot\GitHub\Tuntikirjanpitosovellus\obj\Debug\netcoreapp3.1\Tuntikirjanpitosovellus.dll
+C:\Users\elmeri.eklund\OneDrive - Careeria\Tiedostot\GitHub\Tuntikirjanpitosovellus\obj\Debug\netcoreapp3.1\Tuntikirjanpitosovellus.pdb
