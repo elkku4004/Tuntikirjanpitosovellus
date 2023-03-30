@@ -9,6 +9,10 @@ namespace Tuntikirjanpitosovellus
             bool loggedIn = false;
             string username = "";
             string password = "";
+            string sidottu = "";
+            string sitoutumaton = "";
+            string sairasloma = "";
+            int sairaslomamäärä = "";
 
             while (!loggedIn)
             {
@@ -48,7 +52,6 @@ namespace Tuntikirjanpitosovellus
 
                 Console.WriteLine("Tuntimerkintä tallennettu onnistuneesti.");
                 Console.WriteLine();
-                break;
             }
         }
 
